@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjDO7GDW4vckWA7tY0L3TyDw4rVJKqk3eeG/r2cbb4yCMyI2YTlOqGABMiFdHW0UmvaRVUQsvvLa7wfiEoJ98w==",
+  "success": true,
+  "projectFilePath": "D:\\teste_stefanini\\ProductRegister\\ProductRegister.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LukeGrave\\.nuget\\packages\\restsharp\\106.6.9\\restsharp.106.6.9.nupkg.sha512"
+  ],
+  "logs": []
+}

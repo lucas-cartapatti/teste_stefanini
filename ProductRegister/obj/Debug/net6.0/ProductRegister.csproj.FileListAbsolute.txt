@@ -1,0 +1,17 @@
+D:\teste_stefanini\ProductRegister\bin\Debug\net6.0\ProductRegister.exe
+D:\teste_stefanini\ProductRegister\bin\Debug\net6.0\ProductRegister.deps.json
+D:\teste_stefanini\ProductRegister\bin\Debug\net6.0\ProductRegister.runtimeconfig.json
+D:\teste_stefanini\ProductRegister\bin\Debug\net6.0\ProductRegister.dll
+D:\teste_stefanini\ProductRegister\bin\Debug\net6.0\ProductRegister.pdb
+D:\teste_stefanini\ProductRegister\bin\Debug\net6.0\RestSharp.dll
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.csproj.AssemblyReference.cache
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.AssemblyInfoInputs.cache
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.AssemblyInfo.cs
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.csproj.CoreCompileInputs.cache
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.csproj.CopyComplete
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.dll
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\refint\ProductRegister.dll
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.pdb
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ProductRegister.genruntimeconfig.cache
+D:\teste_stefanini\ProductRegister\obj\Debug\net6.0\ref\ProductRegister.dll
